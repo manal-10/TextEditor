@@ -149,7 +149,7 @@ void MainWindow::on_actionpaste_triggered()
      ui->plainTextEdit->paste();
 }
 
-main.cpp
+# main.cpp
   
 #include "mainwindow.h"
 
